@@ -5,7 +5,7 @@
 Cliproxy 是一家全球代理服务提供商，提供覆盖 180+ 国家和地区的代理 IP 解决方案，支持**住宅代理、静态 ISP 代理以及 SOCKS5 / HTTP(S) 代理**等多种代理类型，并提供灵活的计费方式，以满足不同用户的需求。Cliproxy 广泛应用于**数据抓取、AI 数据采集、账号管理**等对 IP 稳定性和质量要求较高的场景。
 
 - 优惠券：【Hubstudio】可享受全场 95 折优惠
-- 购买链接：[https://cliproxy.com/?kwd=zz-tu](https://share.cliproxy.com/share/rescfaspo)
+- 购买链接：[https://share.cliproxy.com/share/rescfaspo](https://share.cliproxy.com/share/rescfaspo)
 
 ---
 
