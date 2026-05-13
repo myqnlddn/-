@@ -1,4 +1,5 @@
-# 2026 住宅代理选购指南：Cliproxy 安全便宜 专属链接注册攻略
+# 住宅代理｜静态 IP｜VPS 中转服务器 海外住宅代理 注册优惠链接大全
+# Proxy IP VPS Guide Tutorial | Registration Invite & Discount Collection
 
 # Cliproxy 代理及 Hubstudio 设置教程
 ## Cliproxy 简介
